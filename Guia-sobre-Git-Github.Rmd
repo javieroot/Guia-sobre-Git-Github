@@ -245,14 +245,14 @@ Lo cual añadirá el archivo CMakeLists.txt a nuestro commit.
 
 A continuación, se muestra cómo utilizar Git y GitHub con Rstudio
 
-### ¿Qué es RStudio?
+### ¿Qué es [RStudio](http://www.rstudio.com/)?
 
-[RStudio](http://www.rstudio.com/) es un excelente entorno de desarrollo integrado
-construido específicamente para [R](http://cran.us.r-project.org/). También contiene
-el control de versiones de Git y SVN.
+Es un excelente entorno de desarrollo integrado construido específicamente para 
+[R](http://cran.us.r-project.org/). También contiene el control de versiones de 
+Git y SVN.
 
 
-### Configración de RStudio
+### Configuración de RStudio
 
 Abrir Rstudio y establecer la ruta de ejecutable de Git. Ir a Herramientas > Opciones > Git/SVN
 
@@ -263,4 +263,11 @@ estar ubicado en cualquier número de lugares en función del sistema operativo,
 pero la ubicación de la instalación de Git es un buen primer lugar para buscar.
 
 
+## Fuentes
+
+El presente documento es una recopilación de las siguientes páginas:
+
+[Hispano](https://github.com/Hispano/Guia-sobre-Git-Github-y-Metodologia-de-Desarrollo-de-Software-usando-Git-y-Github)
+
+[THE MOLECULAR ECOLOGIST](http://www.molecularecologist.com/2013/11/using-github-with-r-and-rstudio/)
 

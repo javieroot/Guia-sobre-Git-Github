@@ -262,6 +262,10 @@ Es importante encontrar el archivo git.exe (como se muestra arriba). Este puede
 estar ubicado en cualquier número de lugares en función del sistema operativo,
 pero la ubicación de la instalación de Git es un buen primer lugar para buscar.
 
+![Sin titulo](imagenes/imagen2.png)
+![Sin titulo](imagenes/imagen3.png)
+![Sin titulo](imagenes/imagen4.png)
+![Sin titulo](imagenes/imagen5.png)
 
 ## Fuentes
 
